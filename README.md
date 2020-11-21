@@ -1,2 +1,4 @@
 # Projeto_Escultura3D
-Projeto da disciplina Programação Avançada - DCA1202 - UFRN
+Escultura 3D (Programação Avançada - DCA1202 - 2020.6)
+
+- Kaio Victor da Costa Menezes
